@@ -16,4 +16,4 @@ elif op == "/":
 else:
     result = "Invalid operator"
 
-print("Result:", result)
+print("Addition:", result)
